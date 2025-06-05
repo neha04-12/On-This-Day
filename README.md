@@ -1,3 +1,21 @@
+This project is a solution to our final task as a part of the Frontend Frmakeworks course for the masters software engineering program at FH Technikum Wien. 
+
+This application's main fucntionality is that, on a chosen date it goves you a list of major event that happened in the past on that particuar day. It uses an API call On-this-Day to fetch the events that happened on a given date. Here is the link to the API, https://byabbe.se/on-this-day/ . The Api, finds important events, birthdays and deaths of people but the application only focuses on the events.
+
+The application is deployed at https://on-this-day-self.vercel.app/
+
+The login credentials are give below:
+Username: admin
+Password: holymoly
+
+Some of the features taht have been implemented are:
+Dark mode and Light mode switching
+Login and session cookies
+sorting the list of events based on timeline
+displaying images from the wikipedia thumbnails of the rendered events.
+
+You can reproduce this project by cloning or downloading this repo and following the steps given below.
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
