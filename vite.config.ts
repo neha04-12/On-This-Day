@@ -12,11 +12,8 @@ const dirname =
 export default defineConfig({
 	plugins: [
 		tailwindcss(),
-		sveltekit(),
-		paraglideVitePlugin({
-			project: './project.inlang',
-			outdir: 'dist'
-		})
+		sveltekit()
+		
 	],
 	test: {
 		workspace: [
