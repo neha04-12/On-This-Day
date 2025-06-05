@@ -1,26 +1,26 @@
 This project is a solution to our final task as a part of the Frontend Frmakeworks course for the masters software engineering program at FH Technikum Wien. 
-< br / >
+<br/>
 This application's main fucntionality is that, on a chosen date it gives you a list of major event that happened in the past on that particular day. It uses an API call On-this-Day to fetch the events that happened on a given date. Here is the link to the API, https://byabbe.se/on-this-day/ . The API, finds important events, birthdays and deaths of people but the application only focuses on the major events.
-< br / >
+<br/>
 The application is deployed at https://on-this-day-self.vercel.app/
-< br / >
+<br/>
 The login credentials are give below:
-< br / >
+<br/>
 Username: admin
-< br / >
+<br/>
 Password: holymoly
-< br / >
+<br/>
 
 Some of the features that have been implemented are:
-< br / >
+<br/>
 Dark mode and Light mode switching
-< br / >
+<br/>
 Login and session cookies
-< br / >
+<br/>
 sorting the list of events based on timeline
-< br / >
+<br/>
 displaying images from the wikipedia thumbnails of the rendered events.
-< br / >
+<br/>
 You can reproduce this project by cloning or downloading this repo and following the steps given below.
 
 # sv
